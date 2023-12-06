@@ -10,7 +10,7 @@
 
 - Robust routing
 - Focus on high performance
-- Super-high test coverage _(need more hands, peep the issues and contribute)_
+- Super-high test coverage
 - HTTP helpers (just like ExpressJS)
 - Interoperability with Shelf Middlewares [See here](./packages/pharaoh/SHELF_INTEROP.md)
 
@@ -20,7 +20,7 @@ In your pubspec.yaml
 
 ```yaml
 dependencies:
-  pharaoh: ^0.0.4 # requires Dart => ^3.0.0
+  pharaoh: ^0.0.5 # requires Dart => ^3.0.0
 ```
 
 ## Basic Usage:
